@@ -32,6 +32,6 @@
 
   [Demo link](https://drive.google.com/file/d/1a5lfS3TQCbes1aODwQgp46iPxNi9600M/view)
 
-  [Github Repo]()
+  [Github Repo](https://github.com/mmanhx90/e-commerce-back-end-hw13)
 
-  [Github]()
+  [Github](https://github.com/mmanhx90)
